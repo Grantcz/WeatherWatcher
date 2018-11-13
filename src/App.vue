@@ -13,7 +13,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Verdana, Trebuchet MS;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #000000;
@@ -21,7 +21,7 @@ export default {
   padding: 20px;
 }
 html {
-  background: #cecece;
+  background:#4d50a2;
   padding: 0;
   margin: 0;
 }
@@ -29,6 +29,12 @@ body {
   width: 75%;
   margin: 0 auto;
   padding: 0;
-  background: #fff;
+  background:#4d50a2;
+}
+body h1,h2,p{
+  color: #ffffff;
+}
+body p a{
+  color: #FFDE17;
 }
 </style>
