@@ -2,7 +2,7 @@
   "name": "weatherwatcher",
   "version": "1.0.0",
   "description": "Weather app built with OWM.org API",
-  "author": "Grant Cz",
+  "author": "GrantCz",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

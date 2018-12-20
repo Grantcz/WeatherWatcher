@@ -2,7 +2,7 @@
   <div>
     <h2>City Search</h2>
     <form v-on:submit.prevent="getCities">
-        <p>Enter city name: <input type="text" v-model="query" placeholder="City Name, US"> <button type="submit">Go</button></p>
+        <p>Enter city name: <input type="text" v-model="query" placeholder="City Name"> <button type="submit">Go</button></p>
     </form>
     <ul class="cities" v-if="results && results.list.length > 0">
         <li v-for="city in results.list">
