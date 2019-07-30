@@ -1,2 +1,7 @@
 # WeatherWatcher
-a weather service webapp built with Vue.js & using the API from OpenWeatherMap.org to show current weather & a five day hourly forecast for cities inside the US.
+
+a weather service web application built using Vue.js & the API from [OpenWeatherMap.org](https://openweathermap.org/api) to multiple forecasts like current weather, a five day and hourly forecast for any cities inside the US.
+
+## Check Your Weather
+
+Head [here](https://grantcz.github.io/WeatherWatcher/#/) and type in the name of any US city you'll like to see a weather forecast for.
